@@ -1,0 +1,4617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d8" for="node" attr.name="graph_betweenness" attr.type="double" />
+  <key id="d7" for="node" attr.name="graph_degree" attr.type="double" />
+  <key id="d6" for="node" attr.name="amplifier_score" attr.type="double" />
+  <key id="d5" for="node" attr.name="origin_score" attr.type="double" />
+  <key id="d4" for="node" attr.name="fans" attr.type="long" />
+  <key id="d3" for="node" attr.name="campaign_reach" attr.type="long" />
+  <key id="d2" for="node" attr.name="n_campaign_posts" attr.type="long" />
+  <key id="d1" for="node" attr.name="role" attr.type="string" />
+  <key id="d0" for="node" attr.name="community" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="bernardotumbaco1879">
+      <data key="d0">1</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">14</data>
+      <data key="d3">251515</data>
+      <data key="d4">11400</data>
+      <data key="d5">0.4055</data>
+      <data key="d6">0.5935</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.00803</data>
+    </node>
+    <node id="colombia_libre_ya">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">10</data>
+      <data key="d3">24132</data>
+      <data key="d4">9104</data>
+      <data key="d5">0.509</data>
+      <data key="d6">0.0121</data>
+      <data key="d7">0.77528</data>
+      <data key="d8">0.03398</data>
+    </node>
+    <node id="360radioco">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">913</data>
+      <data key="d4">59500</data>
+      <data key="d5">0.0054</data>
+      <data key="d6">0.0005</data>
+      <data key="d7">0.51685</data>
+      <data key="d8">0.0082</data>
+    </node>
+    <node id="abelardistas">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">4176</data>
+      <data key="d4">47900</data>
+      <data key="d5">0.0108</data>
+      <data key="d6">0.0021</data>
+      <data key="d7">0.47191</data>
+      <data key="d8">0.01054</data>
+    </node>
+    <node id="albeiro.t8">
+      <data key="d0">1</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">20</data>
+      <data key="d3">173124</data>
+      <data key="d4">14100</data>
+      <data key="d5">0.3967</data>
+      <data key="d6">0.7969</data>
+      <data key="d7">0.75281</data>
+      <data key="d8">0.08042</data>
+    </node>
+    <node id="antizurdosoficial">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">7</data>
+      <data key="d3">46847</data>
+      <data key="d4">95400</data>
+      <data key="d5">0.0588</data>
+      <data key="d6">0.0234</data>
+      <data key="d7">0.55056</data>
+      <data key="d8">0.01892</data>
+    </node>
+    <node id="betocoral">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">3</data>
+      <data key="d3">62600</data>
+      <data key="d4">108300</data>
+      <data key="d5">0.1503</data>
+      <data key="d6">0.0313</data>
+      <data key="d7">0.35955</data>
+      <data key="d8">0.0056</data>
+    </node>
+    <node id="brujitasconconciencia">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">2107</data>
+      <data key="d4">3341</data>
+      <data key="d5">0.0023</data>
+      <data key="d6">0.0011</data>
+      <data key="d7">0.48315</data>
+      <data key="d8">0.04563</data>
+    </node>
+    <node id="carlos.ayala.ozarco">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">14</data>
+      <data key="d3">165831</data>
+      <data key="d4">45400</data>
+      <data key="d5">0.0603</data>
+      <data key="d6">0.0829</data>
+      <data key="d7">0.38202</data>
+      <data key="d8">0.0104</data>
+    </node>
+    <node id="clips_politica0">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">11</data>
+      <data key="d3">12271</data>
+      <data key="d4">1295</data>
+      <data key="d5">0.7456</data>
+      <data key="d6">1.0061</data>
+      <data key="d7">0.67416</data>
+      <data key="d8">0.01593</data>
+    </node>
+    <node id="eltigre.abogado">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">4</data>
+      <data key="d3">26091</data>
+      <data key="d4">28700</data>
+      <data key="d5">0.0111</data>
+      <data key="d6">0.013</data>
+      <data key="d7">0.49438</data>
+      <data key="d8">0.01832</data>
+    </node>
+    <node id="enlacenoticiascol">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">3</data>
+      <data key="d3">507406</data>
+      <data key="d4">9145</data>
+      <data key="d5">0.0393</data>
+      <data key="d6">0.2537</data>
+      <data key="d7">0.35955</data>
+      <data key="d8">0.0056</data>
+    </node>
+    <node id="eravelas">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">3</data>
+      <data key="d3">283953</data>
+      <data key="d4">16800</data>
+      <data key="d5">0.0091</data>
+      <data key="d6">0.142</data>
+      <data key="d7">0.52809</data>
+      <data key="d8">0.02007</data>
+    </node>
+    <node id="firmesporlapatria_21">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">404200</data>
+      <data key="d4">1090</data>
+      <data key="d5">0.0091</data>
+      <data key="d6">0.2021</data>
+      <data key="d7">0.32584</data>
+      <data key="d8">0.01809</data>
+    </node>
+    <node id="fran57.789">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">4</data>
+      <data key="d3">1129</data>
+      <data key="d4">628</data>
+      <data key="d5">0.0099</data>
+      <data key="d6">0.0006</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.0094</data>
+    </node>
+    <node id="franciscolo29">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">3</data>
+      <data key="d3">1248</data>
+      <data key="d4">27400</data>
+      <data key="d5">0.0201</data>
+      <data key="d6">0.0006</data>
+      <data key="d7">0.50562</data>
+      <data key="d8">0.01709</data>
+    </node>
+    <node id="gaby_lievano">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">148800</data>
+      <data key="d4">3218</data>
+      <data key="d5">0.0086</data>
+      <data key="d6">0.0744</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.01721</data>
+    </node>
+    <node id="ivonne.sofia7">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">55865</data>
+      <data key="d4">100</data>
+      <data key="d5">0.008</data>
+      <data key="d6">0.0279</data>
+      <data key="d7">0.31461</data>
+      <data key="d8">0.01155</data>
+    </node>
+    <node id="lala.contreras5">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">205700</data>
+      <data key="d4">2188</data>
+      <data key="d5">0.0152</data>
+      <data key="d6">0.1028</data>
+      <data key="d7">0.51685</data>
+      <data key="d8">0.01794</data>
+    </node>
+    <node id="nestor.guarin8">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">10800</data>
+      <data key="d4">1487</data>
+      <data key="d5">0.022</data>
+      <data key="d6">0.0054</data>
+      <data key="d7">0.37079</data>
+      <data key="d8">0.02215</data>
+    </node>
+    <node id="sinderesispatriotica">
+      <data key="d0">1</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">359600</data>
+      <data key="d4">1596</data>
+      <data key="d5">0.0087</data>
+      <data key="d6">0.1798</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.00932</data>
+    </node>
+    <node id="anthony_jaas">
+      <data key="d0">1</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">12</data>
+      <data key="d3">30340</data>
+      <data key="d4">3349</data>
+      <data key="d5">0.7464</data>
+      <data key="d6">0.7921</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.02074</data>
+    </node>
+    <node id="oh._.26">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">11600</data>
+      <data key="d4">3559</data>
+      <data key="d5">0.0228</data>
+      <data key="d6">0.0058</data>
+      <data key="d7">0.07865</data>
+      <data key="d8">0.00047</data>
+    </node>
+    <node id="simong846">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">354500</data>
+      <data key="d4">1079</data>
+      <data key="d5">0.3487</data>
+      <data key="d6">0.3651</data>
+      <data key="d7">0.16854</data>
+      <data key="d8">0.00621</data>
+    </node>
+    <node id="abogadamajoserpa">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">33100</data>
+      <data key="d4">4598</data>
+      <data key="d5">0.0663</data>
+      <data key="d6">0.0166</data>
+      <data key="d7">0.41573</data>
+      <data key="d8">0.00393</data>
+    </node>
+    <node id="nellypatriciamosquera">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">125600</data>
+      <data key="d4">29000</data>
+      <data key="d5">0.0329</data>
+      <data key="d6">0.0628</data>
+      <data key="d7">0.41573</data>
+      <data key="d8">0.02762</data>
+    </node>
+    <node id="abelardomipresidente">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">2220</data>
+      <data key="d4">63600</data>
+      <data key="d5">0.0205</data>
+      <data key="d6">0.0011</data>
+      <data key="d7">0.40449</data>
+      <data key="d8">0.0083</data>
+    </node>
+    <node id="edwin_chica">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1804</data>
+      <data key="d4">4523</data>
+      <data key="d5">0.889</data>
+      <data key="d6">0.0283</data>
+      <data key="d7">0.23596</data>
+      <data key="d8">0.00222</data>
+    </node>
+    <node id="eco.aneko">
+      <data key="d0">0</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">201000</data>
+      <data key="d4">460900</data>
+      <data key="d5">0.0227</data>
+      <data key="d6">0.1005</data>
+      <data key="d7">0.25843</data>
+      <data key="d8">0.00363</data>
+    </node>
+    <node id="colombia_reels">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">4</data>
+      <data key="d3">335914</data>
+      <data key="d4">31700</data>
+      <data key="d5">0.0028</data>
+      <data key="d6">0.168</data>
+      <data key="d7">0.33708</data>
+      <data key="d8">0.00536</data>
+    </node>
+    <node id="thomas.piedrahitam">
+      <data key="d0">1</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">21100</data>
+      <data key="d4">50900</data>
+      <data key="d5">0.8657</data>
+      <data key="d6">0.0106</data>
+      <data key="d7">0.11236</data>
+      <data key="d8">0.00048</data>
+    </node>
+    <node id="alexbayona_11">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1759</data>
+      <data key="d4">2023</data>
+      <data key="d5">0.0004</data>
+      <data key="d6">0.0009</data>
+      <data key="d7">0.20225</data>
+      <data key="d8">0.00838</data>
+    </node>
+    <node id="donderecho6">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">5</data>
+      <data key="d3">1623</data>
+      <data key="d4">118</data>
+      <data key="d5">1.0715</data>
+      <data key="d6">0.2415</data>
+      <data key="d7">0.59551</data>
+      <data key="d8">0.0167</data>
+    </node>
+    <node id="jonathanvarod">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">701</data>
+      <data key="d4">2256</data>
+      <data key="d5">0.005</data>
+      <data key="d6">0.0004</data>
+      <data key="d7">0.35955</data>
+      <data key="d8">0.00897</data>
+    </node>
+    <node id="politok81">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">669300</data>
+      <data key="d4">394</data>
+      <data key="d5">0.144</data>
+      <data key="d6">0.3346</data>
+      <data key="d7">0.49438</data>
+      <data key="d8">0.01249</data>
+    </node>
+    <node id="vickydavilaperiodista">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">57400</data>
+      <data key="d4">781500</data>
+      <data key="d5">0.0052</data>
+      <data key="d6">0.0287</data>
+      <data key="d7">0.10112</data>
+      <data key="d8">0.00035</data>
+    </node>
+    <node id="giovannygordillos">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">4</data>
+      <data key="d3">25464</data>
+      <data key="d4">160300</data>
+      <data key="d5">0.8244</data>
+      <data key="d6">0.5078</data>
+      <data key="d7">0.49438</data>
+      <data key="d8">0.08436</data>
+    </node>
+    <node id="impactopublicooficial">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">34</data>
+      <data key="d3">121120</data>
+      <data key="d4">6443</data>
+      <data key="d5">0.0752</data>
+      <data key="d6">0.0606</data>
+      <data key="d7">0.03371</data>
+      <data key="d8">0.02196</data>
+    </node>
+    <node id="alex_izquierdo_t">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">3937</data>
+      <data key="d4">599</data>
+      <data key="d5">0.0065</data>
+      <data key="d6">0.002</data>
+      <data key="d7">0.13483</data>
+      <data key="d8">0.00176</data>
+    </node>
+    <node id="ivanquicenomoreno">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">6</data>
+      <data key="d3">76581</data>
+      <data key="d4">3758</data>
+      <data key="d5">0.0769</data>
+      <data key="d6">0.0383</data>
+      <data key="d7">0.1236</data>
+      <data key="d8">0.00015</data>
+    </node>
+    <node id="leosalce">
+      <data key="d0">3</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">6625</data>
+      <data key="d4">1248</data>
+      <data key="d5">0.8304</data>
+      <data key="d6">0.0033</data>
+      <data key="d7">0.1236</data>
+      <data key="d8">0.00015</data>
+    </node>
+    <node id="mariomoon19">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">74300</data>
+      <data key="d4">6009</data>
+      <data key="d5">0.0983</data>
+      <data key="d6">0.0372</data>
+      <data key="d7">0.23596</data>
+      <data key="d8">0.01111</data>
+    </node>
+    <node id="roonny81">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">28149</data>
+      <data key="d4">478</data>
+      <data key="d5">0.3561</data>
+      <data key="d6">0.0278</data>
+      <data key="d7">0.13483</data>
+      <data key="d8">0.00602</data>
+    </node>
+    <node id="victor.julian.arr">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">121</data>
+      <data key="d4">30</data>
+      <data key="d5">0.0769</data>
+      <data key="d6">0.0001</data>
+      <data key="d7">0.1236</data>
+      <data key="d8">0.00015</data>
+    </node>
+    <node id="will2129">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">190400</data>
+      <data key="d4">232</data>
+      <data key="d5">0.0708</data>
+      <data key="d6">0.0952</data>
+      <data key="d7">0.14607</data>
+      <data key="d8">0.00138</data>
+    </node>
+    <node id="adrianabarragan16">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">384</data>
+      <data key="d4">9205</data>
+      <data key="d5">0.3466</data>
+      <data key="d6">0.7184</data>
+      <data key="d7">0.29213</data>
+      <data key="d8">0.00906</data>
+    </node>
+    <node id="colombia.pensante">
+      <data key="d0">0</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">2</data>
+      <data key="d3">185616</data>
+      <data key="d4">11900</data>
+      <data key="d5">0.0003</data>
+      <data key="d6">0.0928</data>
+      <data key="d7">0.14607</data>
+      <data key="d8">0.00176</data>
+    </node>
+    <node id="fabian.florez20">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1924</data>
+      <data key="d4">8</data>
+      <data key="d5">0.0031</data>
+      <data key="d6">0.001</data>
+      <data key="d7">0.08989</data>
+      <data key="d8">0.00019</data>
+    </node>
+    <node id="juliana29_10">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">280</data>
+      <data key="d4">1921</data>
+      <data key="d5">0.0007</data>
+      <data key="d6">0.0001</data>
+      <data key="d7">0.13483</data>
+      <data key="d8">0.00231</data>
+    </node>
+    <node id="kell_1946">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">519</data>
+      <data key="d4">122</data>
+      <data key="d5">0.0025</data>
+      <data key="d6">0.0003</data>
+      <data key="d7">0.5618</data>
+      <data key="d8">0.02635</data>
+    </node>
+    <node id="seres142">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">598</data>
+      <data key="d4">2480</data>
+      <data key="d5">0.0058</data>
+      <data key="d6">0.0003</data>
+      <data key="d7">0.29213</data>
+      <data key="d8">0.00578</data>
+    </node>
+    <node id="tata_mendoza3">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">167</data>
+      <data key="d4">4</data>
+      <data key="d5">0.0113</data>
+      <data key="d6">0.0001</data>
+      <data key="d7">0.2809</data>
+      <data key="d8">0.00711</data>
+    </node>
+    <node id="bues4quillo_a">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">2</data>
+      <data key="d3">307551</data>
+      <data key="d4">350</data>
+      <data key="d5">0.0014</data>
+      <data key="d6">0.1538</data>
+      <data key="d7">0.32584</data>
+      <data key="d8">0.00385</data>
+    </node>
+    <node id="camiloramirez7819">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">2</data>
+      <data key="d3">12026</data>
+      <data key="d4">1041</data>
+      <data key="d5">0.3452</data>
+      <data key="d6">0.0862</data>
+      <data key="d7">0.23596</data>
+      <data key="d8">0.00248</data>
+    </node>
+    <node id="criticodorado">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">3</data>
+      <data key="d3">223827</data>
+      <data key="d4">2797</data>
+      <data key="d5">0.002</data>
+      <data key="d6">0.1119</data>
+      <data key="d7">0.53933</data>
+      <data key="d8">0.00956</data>
+    </node>
+    <node id="mariacmv_1016">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">563</data>
+      <data key="d4">68</data>
+      <data key="d5">0.0065</data>
+      <data key="d6">0.0003</data>
+      <data key="d7">0.26966</data>
+      <data key="d8">0.00329</data>
+    </node>
+    <node id="_alejandrogaleano">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">7</data>
+      <data key="d3">814300</data>
+      <data key="d4">51400</data>
+      <data key="d5">0.0615</data>
+      <data key="d6">0.4072</data>
+      <data key="d7">0.34831</data>
+      <data key="d8">0.00345</data>
+    </node>
+    <node id="_juanis_vv_">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">5</data>
+      <data key="d3">166097</data>
+      <data key="d4">56400</data>
+      <data key="d5">0.02</data>
+      <data key="d6">0.083</data>
+      <data key="d7">0.46067</data>
+      <data key="d8">0.00467</data>
+    </node>
+    <node id="colnotiweb">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">3</data>
+      <data key="d3">20824</data>
+      <data key="d4">44000</data>
+      <data key="d5">0.0862</data>
+      <data key="d6">0.0104</data>
+      <data key="d7">0.31461</data>
+      <data key="d8">0.00309</data>
+    </node>
+    <node id="davidgcote">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1588</data>
+      <data key="d4">14900</data>
+      <data key="d5">0.0006</data>
+      <data key="d6">0.0008</data>
+      <data key="d7">0.31461</data>
+      <data key="d8">0.00309</data>
+    </node>
+    <node id="diegocaro87">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">5</data>
+      <data key="d3">175900</data>
+      <data key="d4">57400</data>
+      <data key="d5">0.1108</data>
+      <data key="d6">0.088</data>
+      <data key="d7">0.5618</data>
+      <data key="d8">0.00679</data>
+    </node>
+    <node id="elpaisalizcano">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">6</data>
+      <data key="d3">551810</data>
+      <data key="d4">3278</data>
+      <data key="d5">0.0776</data>
+      <data key="d6">0.2759</data>
+      <data key="d7">0.37079</data>
+      <data key="d8">0.00349</data>
+    </node>
+    <node id="hiprogresias">
+      <data key="d0">0</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">14000</data>
+      <data key="d4">1762</data>
+      <data key="d5">1.3333</data>
+      <data key="d6">0.007</data>
+      <data key="d7">0.50562</data>
+      <data key="d8">0.00879</data>
+    </node>
+    <node id="isaac.mendoza.cd">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">15666</data>
+      <data key="d4">4898</data>
+      <data key="d5">0.0386</data>
+      <data key="d6">0.0078</data>
+      <data key="d7">0.35955</data>
+      <data key="d8">0.00294</data>
+    </node>
+    <node id="jco_el_parcero">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">5937</data>
+      <data key="d4">88100</data>
+      <data key="d5">0.2018</data>
+      <data key="d6">0.003</data>
+      <data key="d7">0.41573</data>
+      <data key="d8">0.00478</data>
+    </node>
+    <node id="kikecabrales">
+      <data key="d0">-1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">13100</data>
+      <data key="d4">7158</data>
+      <data key="d5">0.1984</data>
+      <data key="d6">0.0066</data>
+      <data key="d7">0.31461</data>
+      <data key="d8">0.00309</data>
+    </node>
+    <node id="politicadinamica">
+      <data key="d0">3</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">9621</data>
+      <data key="d4">29000</data>
+      <data key="d5">0.8787</data>
+      <data key="d6">0.0576</data>
+      <data key="d7">0.47191</data>
+      <data key="d8">0.04169</data>
+    </node>
+    <node id="usuarionoencontrado88045">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">13200</data>
+      <data key="d4">86</data>
+      <data key="d5">0.01</data>
+      <data key="d6">0.0066</data>
+      <data key="d7">0.42697</data>
+      <data key="d8">0.00586</data>
+    </node>
+    <node id="etd.entudia">
+      <data key="d0">3</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">5688</data>
+      <data key="d4">112900</data>
+      <data key="d5">0.4601</data>
+      <data key="d6">0.0028</data>
+      <data key="d7">0.01124</data>
+      <data key="d8">0.0</data>
+    </node>
+    <node id="cepedapresidente_">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1201</data>
+      <data key="d4">19</data>
+      <data key="d5">0.0058</data>
+      <data key="d6">0.0006</data>
+      <data key="d7">0.30337</data>
+      <data key="d8">0.00584</data>
+    </node>
+    <node id="hada2257">
+      <data key="d0">2</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">6147</data>
+      <data key="d4">1572</data>
+      <data key="d5">0.0366</data>
+      <data key="d6">0.0031</data>
+      <data key="d7">0.02247</data>
+      <data key="d8">0.0</data>
+    </node>
+    <node id="mr.x.noticias">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1100</data>
+      <data key="d4">12500</data>
+      <data key="d5">0.3575</data>
+      <data key="d6">0.0534</data>
+      <data key="d7">0.04494</data>
+      <data key="d8">0.00061</data>
+    </node>
+    <node id="jacardo01">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">3</data>
+      <data key="d3">1373</data>
+      <data key="d4">1391</data>
+      <data key="d5">0.0443</data>
+      <data key="d6">0.0007</data>
+      <data key="d7">0.16854</data>
+      <data key="d8">0.00238</data>
+    </node>
+    <node id="_yosimellamojavier_">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">3</data>
+      <data key="d3">26105</data>
+      <data key="d4">32000</data>
+      <data key="d5">0.0273</data>
+      <data key="d6">0.0131</data>
+      <data key="d7">0.22472</data>
+      <data key="d8">0.00621</data>
+    </node>
+    <node id="desplumando_zurdos">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">16067</data>
+      <data key="d4">33200</data>
+      <data key="d5">0.0225</data>
+      <data key="d6">0.008</data>
+      <data key="d7">0.08989</data>
+      <data key="d8">0.00067</data>
+    </node>
+    <node id="andreaserrano234">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">1853</data>
+      <data key="d4">2362</data>
+      <data key="d5">0.0204</data>
+      <data key="d6">0.0009</data>
+      <data key="d7">0.1236</data>
+      <data key="d8">0.00076</data>
+    </node>
+    <node id="bastadepetro">
+      <data key="d0">2</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">3</data>
+      <data key="d3">211716</data>
+      <data key="d4">1767</data>
+      <data key="d5">0.0547</data>
+      <data key="d6">0.1059</data>
+      <data key="d7">0.17978</data>
+      <data key="d8">0.00304</data>
+    </node>
+    <node id="germanalejo1979">
+      <data key="d0">1</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">14700</data>
+      <data key="d4">188</data>
+      <data key="d5">0.4411</data>
+      <data key="d6">0.0074</data>
+      <data key="d7">0.13483</data>
+      <data key="d8">0.00192</data>
+    </node>
+    <node id="oscarmorita02">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">1212</data>
+      <data key="d4">13500</data>
+      <data key="d5">0.0064</data>
+      <data key="d6">0.0006</data>
+      <data key="d7">0.1236</data>
+      <data key="d8">0.00076</data>
+    </node>
+    <node id="carlosandresmerca69">
+      <data key="d0">4</data>
+      <data key="d1">spreader</data>
+      <data key="d2">5</data>
+      <data key="d3">1498</data>
+      <data key="d4">215</data>
+      <data key="d5">0.0053</data>
+      <data key="d6">0.0007</data>
+      <data key="d7">0.06742</data>
+      <data key="d8">0.00013</data>
+    </node>
+    <node id="rubielvargas7">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">8453</data>
+      <data key="d4">20</data>
+      <data key="d5">0.0267</data>
+      <data key="d6">0.0042</data>
+      <data key="d7">0.08989</data>
+      <data key="d8">0.00091</data>
+    </node>
+    <node id="sofia_munoz19">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">605</data>
+      <data key="d4">1159</data>
+      <data key="d5">0.0092</data>
+      <data key="d6">0.0003</data>
+      <data key="d7">0.06742</data>
+      <data key="d8">0.00013</data>
+    </node>
+    <node id="colombialibre2.0">
+      <data key="d0">2</data>
+      <data key="d1">origin</data>
+      <data key="d2">2</data>
+      <data key="d3">1117</data>
+      <data key="d4">8318</data>
+      <data key="d5">1.1983</data>
+      <data key="d6">0.0006</data>
+      <data key="d7">0.07865</data>
+      <data key="d8">0.00053</data>
+    </node>
+    <node id="comonosduelescolombia">
+      <data key="d0">3</data>
+      <data key="d1">spreader</data>
+      <data key="d2">1</data>
+      <data key="d3">48800</data>
+      <data key="d4">33000</data>
+      <data key="d5">0.4771</data>
+      <data key="d6">0.0244</data>
+      <data key="d7">0.2809</data>
+      <data key="d8">0.0032</data>
+    </node>
+    <node id="sindicato2.3">
+      <data key="d0">4</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">1</data>
+      <data key="d3">1800000</data>
+      <data key="d4">58700</data>
+      <data key="d5">1.4937</data>
+      <data key="d6">0.9411</data>
+      <data key="d7">0.25843</data>
+      <data key="d8">0.00103</data>
+    </node>
+    <node id="danilocastrillonr">
+      <data key="d0">0</data>
+      <data key="d1">amplifier</data>
+      <data key="d2">2</data>
+      <data key="d3">16790</data>
+      <data key="d4">28700</data>
+      <data key="d5">0.5318</data>
+      <data key="d6">0.1786</data>
+      <data key="d7">0.42697</data>
+      <data key="d8">0.01327</data>
+    </node>
+    <node id="elfusilero04">
+      <data key="d0">4</data>
+      <data key="d1">origin</data>
+      <data key="d2">1</data>
+      <data key="d3">1420</data>
+      <data key="d4">5086</data>
+      <data key="d5">0.5445</data>
+      <data key="d6">0.0007</data>
+      <data key="d7">0.22472</data>
+      <data key="d8">0.00269</data>
+    </node>
+    <node id="defensores.con.ab">
+      <data key="d0">2</data>
+      <data key="d1">origin</data>
+      <data key="d2">4</data>
+      <data key="d3">2921</data>
+      <data key="d4">1367</data>
+      <data key="d5">0.4085</data>
+      <data key="d6">0.0015</data>
+      <data key="d7">0.01124</data>
+      <data key="d8">0.0</data>
+    </node>
+    <node id="dianys1227">
+      <data key="d0">1</data>
+      <data key="d1">spreader</data>
+      <data key="d2">7</data>
+      <data key="d3">1544</data>
+      <data key="d4">1331</data>
+      <data key="d5">0.0157</data>
+      <data key="d6">0.0008</data>
+      <data key="d7">0.01124</data>
+      <data key="d8">0.0</data>
+    </node>
+    <node id="alvarodejesus2023">
+      <data key="d0">0</data>
+      <data key="d1">spreader</data>
+      <data key="d2">2</data>
+      <data key="d3">27397</data>
+      <data key="d4">75000</data>
+      <data key="d5">0.1507</data>
+      <data key="d6">0.0137</data>
+      <data key="d7">0.22472</data>
+      <data key="d8">0.00214</data>
+    </node>
+    <edge source="bernardotumbaco1879" target="colombia_libre_ya">
+      <data key="d9">5</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="360radioco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="abelardistas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="albeiro.t8">
+      <data key="d9">9</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="antizurdosoficial">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="betocoral">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="clips_politica0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="eltigre.abogado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="enlacenoticiascol">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="eravelas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="franciscolo29">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="nestor.guarin8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="anthony_jaas">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="bastadepetro">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="jacardo01">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bernardotumbaco1879" target="colombialibre2.0">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="360radioco">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="abelardistas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="albeiro.t8">
+      <data key="d9">6</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="antizurdosoficial">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="betocoral">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="carlos.ayala.ozarco">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="clips_politica0">
+      <data key="d9">7</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="eltigre.abogado">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="eravelas">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="franciscolo29">
+      <data key="d9">6</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="gaby_lievano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="nestor.guarin8">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="anthony_jaas">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="abogadamajoserpa">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="criticodorado">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="diegocaro87">
+      <data key="d9">6</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="donderecho6">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="giovannygordillos">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="hiprogresias">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="kell_1946">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="nellypatriciamosquera">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="politok81">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="edwin_chica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="_yosimellamojavier_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="bastadepetro">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="jacardo01">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="danilocastrillonr">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="jonathanvarod">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_libre_ya" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="abelardistas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="albeiro.t8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="antizurdosoficial">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="betocoral">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="clips_politica0">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="360radioco" target="eltigre.abogado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="eravelas">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="360radioco" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="abogadamajoserpa">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="politok81">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="360radioco" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="360radioco" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="albeiro.t8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="antizurdosoficial">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="betocoral">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="clips_politica0">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="eltigre.abogado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="enlacenoticiascol">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="franciscolo29">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="elpaisalizcano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardistas" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardistas" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="antizurdosoficial">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="betocoral">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="clips_politica0">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="albeiro.t8" target="eltigre.abogado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="enlacenoticiascol">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="franciscolo29">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="ivonne.sofia7">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="nestor.guarin8">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="donderecho6">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="kell_1946">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="nellypatriciamosquera">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="seres142">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="anthony_jaas">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="bastadepetro">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="albeiro.t8" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="jacardo01">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="albeiro.t8" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="carlosandresmerca69">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="edwin_chica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="albeiro.t8" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="betocoral">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="brujitasconconciencia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="clips_politica0">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="antizurdosoficial" target="eltigre.abogado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="franciscolo29">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="antizurdosoficial" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="eco.aneko">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="donderecho6">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="antizurdosoficial" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="_yosimellamojavier_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="diegocaro87">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="antizurdosoficial" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="kell_1946">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="danilocastrillonr">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="antizurdosoficial" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="cepedapresidente_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="antizurdosoficial" target="colombia.pensante">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="edwin_chica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="antizurdosoficial" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="brujitasconconciencia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="clips_politica0">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="betocoral" target="eltigre.abogado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="betocoral" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="betocoral" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="betocoral" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="betocoral" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="betocoral" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="carlos.ayala.ozarco">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="clips_politica0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="eltigre.abogado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="enlacenoticiascol">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="eravelas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="firmesporlapatria_21">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="fran57.789">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="gaby_lievano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="colombia.pensante">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="fabian.florez20">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="cepedapresidente_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="brujitasconconciencia" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="clips_politica0">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="eltigre.abogado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="enlacenoticiascol">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="eravelas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="franciscolo29">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="sinderesispatriotica">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="abelardomipresidente">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="jonathanvarod">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="thomas.piedrahitam">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlos.ayala.ozarco" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="eltigre.abogado">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="eravelas">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="franciscolo29">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="lala.contreras5">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="clips_politica0" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="sinderesispatriotica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="_alejandrogaleano">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="_juanis_vv_">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="abelardomipresidente">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="abogadamajoserpa">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="criticodorado">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="diegocaro87">
+      <data key="d9">5</data>
+    </edge>
+    <edge source="clips_politica0" target="donderecho6">
+      <data key="d9">6</data>
+    </edge>
+    <edge source="clips_politica0" target="elpaisalizcano">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="giovannygordillos">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="hiprogresias">
+      <data key="d9">6</data>
+    </edge>
+    <edge source="clips_politica0" target="isaac.mendoza.cd">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="kell_1946">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="clips_politica0" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="politok81">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="usuarionoencontrado88045">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="clips_politica0" target="seres142">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="danilocastrillonr">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="edwin_chica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="jonathanvarod">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="clips_politica0" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="clips_politica0" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="enlacenoticiascol">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="franciscolo29">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="eltigre.abogado" target="gaby_lievano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="nestor.guarin8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="sinderesispatriotica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="mariacmv_1016">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eltigre.abogado" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eltigre.abogado" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="eravelas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="enlacenoticiascol" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="firmesporlapatria_21">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="lala.contreras5">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="abogadamajoserpa">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="diegocaro87">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="eravelas" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="politok81">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="eravelas" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eravelas" target="mr.x.noticias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="fran57.789">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="franciscolo29">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="gaby_lievano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="firmesporlapatria_21" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="franciscolo29">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="fran57.789" target="gaby_lievano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="fran57.789" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="_yosimellamojavier_">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="fran57.789" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="colombia.pensante">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fran57.789" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="gaby_lievano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="ivonne.sofia7">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="nestor.guarin8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="anthony_jaas">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="franciscolo29" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="diegocaro87">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="franciscolo29" target="mariacmv_1016">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="abogadamajoserpa">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="_yosimellamojavier_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="franciscolo29" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="franciscolo29" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="ivonne.sofia7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="nestor.guarin8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="gaby_lievano" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="anthony_jaas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="gaby_lievano" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="gaby_lievano" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="lala.contreras5">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="nestor.guarin8">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="anthony_jaas">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="carlosandresmerca69">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="simong846">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivonne.sofia7" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="nestor.guarin8">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="sinderesispatriotica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="lala.contreras5" target="abelardomipresidente">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="lala.contreras5" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="lala.contreras5" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="politok81">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="lala.contreras5" target="thomas.piedrahitam">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="abogadamajoserpa">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="lala.contreras5" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="lala.contreras5" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="sinderesispatriotica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="anthony_jaas">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="nestor.guarin8" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="simong846">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="nestor.guarin8" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="carlosandresmerca69">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nestor.guarin8" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="abelardomipresidente">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="jonathanvarod">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="thomas.piedrahitam">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sinderesispatriotica" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="oh._.26">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="mariomoon19">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="anthony_jaas" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="bastadepetro">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="anthony_jaas" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="jacardo01">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="anthony_jaas" target="nellypatriciamosquera">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="anthony_jaas" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="oh._.26" target="simong846">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="simong846" target="carlosandresmerca69">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="simong846" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="simong846" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="simong846" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="nellypatriciamosquera">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="donderecho6">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="politok81">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="eco.aneko">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abogadamajoserpa" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="abelardomipresidente">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="nellypatriciamosquera" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="edwin_chica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="donderecho6">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="abelardomipresidente" target="jonathanvarod">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardomipresidente" target="politok81">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardomipresidente" target="thomas.piedrahitam">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardomipresidente" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="colombia_reels">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="elpaisalizcano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardomipresidente" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="hiprogresias">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="abelardomipresidente" target="isaac.mendoza.cd">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="abelardomipresidente" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="abelardomipresidente" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="edwin_chica" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="eco.aneko" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="thomas.piedrahitam">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="giovannygordillos">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colombia_reels" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia_reels" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="thomas.piedrahitam" target="alexbayona_11">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="thomas.piedrahitam" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="thomas.piedrahitam" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="thomas.piedrahitam" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="thomas.piedrahitam" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="donderecho6">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="jonathanvarod">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="colombia.pensante">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="fabian.florez20">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alexbayona_11" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="jonathanvarod">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="politok81">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="_alejandrogaleano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="_juanis_vv_">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="criticodorado">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="diegocaro87">
+      <data key="d9">5</data>
+    </edge>
+    <edge source="donderecho6" target="elpaisalizcano">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="giovannygordillos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="hiprogresias">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="donderecho6" target="isaac.mendoza.cd">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="donderecho6" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="kell_1946">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="seres142">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="danilocastrillonr">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="donderecho6" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="donderecho6" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="politok81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="jonathanvarod" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jonathanvarod" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="vickydavilaperiodista">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="giovannygordillos">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="politok81" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="mariacmv_1016">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politok81" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="impactopublicooficial">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="alex_izquierdo_t">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="will2129">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="giovannygordillos" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="adrianabarragan16">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="giovannygordillos" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="impactopublicooficial" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="impactopublicooficial" target="etd.entudia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="ivanquicenomoreno">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="alex_izquierdo_t" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivanquicenomoreno" target="leosalce">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivanquicenomoreno" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivanquicenomoreno" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivanquicenomoreno" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="ivanquicenomoreno" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="leosalce" target="mariomoon19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="leosalce" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="leosalce" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="leosalce" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="roonny81">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="jacardo01">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariomoon19" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="roonny81" target="victor.julian.arr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="roonny81" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="victor.julian.arr" target="will2129">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="will2129" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="colombia.pensante">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="fabian.florez20">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="kell_1946">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="adrianabarragan16" target="seres142">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="adrianabarragan16" target="tata_mendoza3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="adrianabarragan16" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="adrianabarragan16" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="fabian.florez20">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colombia.pensante" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fabian.florez20" target="juliana29_10">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fabian.florez20" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fabian.florez20" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="fabian.florez20" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="juliana29_10" target="kell_1946">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="juliana29_10" target="seres142">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="juliana29_10" target="tata_mendoza3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="seres142">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="tata_mendoza3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="bues4quillo_a">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="criticodorado">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="diegocaro87">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="kell_1946" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="hiprogresias">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="kell_1946" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="kell_1946" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kell_1946" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="tata_mendoza3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="seres142" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="seres142" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="tata_mendoza3" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="camiloramirez7819">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bues4quillo_a" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="criticodorado">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="camiloramirez7819" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="mariacmv_1016">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="criticodorado" target="_alejandrogaleano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="_juanis_vv_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="diegocaro87">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="criticodorado" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="cepedapresidente_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="criticodorado" target="danilocastrillonr">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="criticodorado" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="criticodorado" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="mariacmv_1016" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="mariacmv_1016" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="_juanis_vv_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="elpaisalizcano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="hiprogresias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="isaac.mendoza.cd">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_alejandrogaleano" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="colnotiweb">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="diegocaro87">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_juanis_vv_" target="elpaisalizcano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_juanis_vv_" target="hiprogresias">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="_juanis_vv_" target="isaac.mendoza.cd">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_juanis_vv_" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_juanis_vv_" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="_juanis_vv_" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_juanis_vv_" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="colnotiweb" target="davidgcote">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="colnotiweb" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="diegocaro87">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="elpaisalizcano">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="hiprogresias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="isaac.mendoza.cd">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="davidgcote" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="diegocaro87" target="elpaisalizcano">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="hiprogresias">
+      <data key="d9">4</data>
+    </edge>
+    <edge source="diegocaro87" target="isaac.mendoza.cd">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="jco_el_parcero">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="diegocaro87" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="cepedapresidente_">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="diegocaro87" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="danilocastrillonr">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="diegocaro87" target="mr.x.noticias">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="diegocaro87" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="elpaisalizcano" target="hiprogresias">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="elpaisalizcano" target="isaac.mendoza.cd">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="elpaisalizcano" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="elpaisalizcano" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="elpaisalizcano" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="elpaisalizcano" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="isaac.mendoza.cd">
+      <data key="d9">3</data>
+    </edge>
+    <edge source="hiprogresias" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="politicadinamica">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="hiprogresias" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="comonosduelescolombia">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="hiprogresias" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="hiprogresias" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hiprogresias" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="isaac.mendoza.cd" target="jco_el_parcero">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="isaac.mendoza.cd" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="isaac.mendoza.cd" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="isaac.mendoza.cd" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jco_el_parcero" target="kikecabrales">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jco_el_parcero" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jco_el_parcero" target="usuarionoencontrado88045">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="jco_el_parcero" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jco_el_parcero" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kikecabrales" target="politicadinamica">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="kikecabrales" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="usuarionoencontrado88045">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="cepedapresidente_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="hada2257">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="politicadinamica" target="mr.x.noticias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="usuarionoencontrado88045" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="usuarionoencontrado88045" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="cepedapresidente_" target="_yosimellamojavier_">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="cepedapresidente_" target="danilocastrillonr">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="cepedapresidente_" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="cepedapresidente_" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="cepedapresidente_" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="hada2257" target="mr.x.noticias">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jacardo01" target="andreaserrano234">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jacardo01" target="bastadepetro">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="jacardo01" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jacardo01" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="jacardo01" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_yosimellamojavier_" target="desplumando_zurdos">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_yosimellamojavier_" target="comonosduelescolombia">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_yosimellamojavier_" target="sindicato2.3">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="_yosimellamojavier_" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="andreaserrano234" target="bastadepetro">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="andreaserrano234" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="andreaserrano234" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bastadepetro" target="germanalejo1979">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bastadepetro" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="bastadepetro" target="colombialibre2.0">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="germanalejo1979" target="oscarmorita02">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="germanalejo1979" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlosandresmerca69" target="rubielvargas7">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="carlosandresmerca69" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="rubielvargas7" target="sofia_munoz19">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="comonosduelescolombia" target="sindicato2.3">
+      <data key="d9">2</data>
+    </edge>
+    <edge source="comonosduelescolombia" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="comonosduelescolombia" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sindicato2.3" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="sindicato2.3" target="danilocastrillonr">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="danilocastrillonr" target="elfusilero04">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="danilocastrillonr" target="alvarodejesus2023">
+      <data key="d9">1</data>
+    </edge>
+    <edge source="defensores.con.ab" target="dianys1227">
+      <data key="d9">1</data>
+    </edge>
+  </graph>
+</graphml>
