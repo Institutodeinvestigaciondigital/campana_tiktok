@@ -1,28 +1,31 @@
 # Cepeda TikTok defamation-campaign dashboard
 
-Interactive Streamlit dashboard tracing the defamation campaign against Iván Cepeda
-on TikTok — combined-term co-occurrence, the hashtag co-use network (centrality /
-betweenness), and diffusion over time. Built from a pre-computed analysis pipeline;
-this repo contains only what the dashboard needs to run.
+A simple, accessible Streamlit dashboard (Spanish) showing, with TikTok data, that
+defamation of Iván Cepeda is **structurally more likely** than defamation of Abelardo
+de la Espriella, and that the anti-Cepeda smear **travels with the Abelardo campaign
+hashtags**. It presents the evidence plainly — no verdict, no legal claims.
 
-Features:
-- **Bilingual** (Español / English) — switch in the sidebar.
-- **Defamation ↔ Abelardo integration** — a hashtag co-occurrence network and
-  metrics showing the anti-Cepeda smear is embedded in the Abelardo de la Espriella
-  campaign (shared posts, shared accounts), not a separate phenomenon.
-- **Co-use network** with centrality / betweenness, plus co-occurrence and
-  cumulative adoption views.
+Three panels:
+1. **El conjunto de datos** — volume (posts, accounts, views), occurrences of the
+   hashtags of interest, and how defamation of each candidate develops over time.
+2. **La co-ocurrencia** — the core: "1 in 12" posts about Cepeda defame him vs "1 in 39"
+   about Abelardo; how often each smear co-occurs with the opposing campaign's hashtags;
+   and a simple network of how the smear hashtags connect to the Abelardo campaign tags.
+3. **Cómo se construyó** — plain-language method, the exact (editable) term definitions,
+   and honest limitations.
+
+The defamation term definitions are editable under "Ajustes avanzados" in the sidebar.
+Built from a pre-computed pipeline; this repo holds only what the dashboard needs.
 
 ## Contents
 
 ```
-streamlit_app.py                       # the app (deploy entry point)
-config.py                              # data paths
-requirements.txt                       # runtime dependencies
-data/processed/posts_campaign.csv      # posts + campaign flags
-data/processed/actor_campaign.csv      # actors + roles + centrality
-data/processed/hashtags.csv            # post → hashtag edges
-data/networks/campaign_shared_hashtag.graphml   # hashtag co-use network
+streamlit_app.py                  # the app (deploy entry point), 3 panels
+detection_config.py               # editable term definitions + plain-language texts
+config.py                         # data paths
+requirements.txt                  # runtime dependencies
+data/processed/posts_campaign.csv # posts (slim: id, user, timestamp, search_text, engagement)
+data/processed/hashtags.csv       # post → hashtag edges
 ```
 
 ## Run locally
